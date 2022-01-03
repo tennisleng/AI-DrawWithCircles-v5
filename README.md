@@ -20,12 +20,5 @@ The most challenging aspect was trying to optimize our fitness function, our cro
 
 In the end, I was not able to get a visibly optimal solution, but I believe that with further optimizations, the algorithm should be able to produce better results.
 
-## How to install& run it 
-```
-git clone https://github.com/peterleng150/AI-Draw.git
-cd AI-Draw
-python -m SimpleHTTPServer
-```
-This should start a server on port 8000 on your local machine.
 
 Created by Andrew Leng
