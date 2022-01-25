@@ -20,6 +20,7 @@ function setup() {
   }
 }
 
+
 function draw() {
   // Displays the image at its actual size at point (0,0)
   image(pic1, 0, 0);
