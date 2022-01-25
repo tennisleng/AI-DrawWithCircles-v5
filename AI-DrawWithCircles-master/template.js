@@ -11,7 +11,7 @@ var displayGenerationNumber;
 
 function setup() {
   createCanvas(300, 900);
-  pic1 = loadImage("assets/peter.jpg");
+  pic1 = loadImage("assets/andrew.jpg");
 
   population = new Array();
 
