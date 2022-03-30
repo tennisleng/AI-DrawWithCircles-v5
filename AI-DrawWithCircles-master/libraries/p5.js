@@ -32,6 +32,15 @@ function line(ctx, x1, y1, x2, y2) {
 }
 
 exports.line = line;
+	
+function intersectline(ctx, x1, y1, x2, y2){
+	ctx.beginPath();
+	ctx.moveTo(x1, y1);
+	ctx moveTo( x2, y2)'
+	ctx.line((y2-y1)/(x2-x1),x1+x2);
+	ctx.stroke();
+}
+}
 
 },{}],4:[function(_dereq_,module,exports){
 // Glyph encoding
